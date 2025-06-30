@@ -1,0 +1,2 @@
+Learn more about extend in tailwind config
+Font Awesome Icons CDN / React Icons
